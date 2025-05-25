@@ -1,0 +1,6 @@
+server:
+  port: 8002
+
+player:
+  name: hieu pro
+  age: 22
